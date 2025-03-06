@@ -3,8 +3,7 @@ This is template for coding task to be done for an interview
 
 ## TASK
 Write automated tests to cover the following scenarios.
-Please use:
-- Selenium with Java or Playwright with Java or TypeScript
+Please use Selenium (with Java) or Playwright (with Java or TypeScript)
 
 Deliver code as a pull request to this repository (please remember that on github you need to fork repo first).
 
